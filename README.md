@@ -15,3 +15,6 @@ Key Features:
 3. **Model Architectures**: Explore and implement popular convolutional neural network (CNN) architectures for FashionMNIST classification, including customizable variations for experimentation.
 
 4. **Visualization Tools**: Jupyter notebook with interactive visualizations help users understand model predictions, feature maps, and the inner workings of computer vision models.
+
+
+Resources: [https://www.learnpytorch.io/] The best place to learn PyTorch after the <a href="https://pytorch.org/docs/stable/index.html">PyTorch documentation </a>
